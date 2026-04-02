@@ -2,7 +2,7 @@ Assisting Yulu, India's micro-mobility provider, in understanding factors influe
 
 
 
-Key Objectives:
+**Key Objectives:**
 
 Imported and analyzed dataset structure.
 Identified relationships between "Count" and independent variables.
